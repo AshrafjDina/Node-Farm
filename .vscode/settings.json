@@ -1,0 +1,7 @@
+{
+  "html.format.indentInnerHtml": true,
+  "html.format.indentHandlebars": true,
+  "prettier.vueIndentScriptAndStyle": true,
+  "editor.wordWrap": "bounded",
+  "editor.wordWrapColumn": 110
+}
